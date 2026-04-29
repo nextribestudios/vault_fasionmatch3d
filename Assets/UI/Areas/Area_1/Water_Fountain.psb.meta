@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 3f6ea441cb8d89f4799e04614cbf78f8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: splash
+    originalName: 
+    pivot: {x: 0.2225391, y: 0.15628587}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 867
+      y: 4
+      width: 124
+      height: 142
+    spriteID: ec6605bc7c90495429d06f7dc0eb52bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 867, y: 4}
+    spritePosition: {x: 348, y: 435}
+  - name: 'splash '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 591
+      width: 232
+      height: 62
+    spriteID: fcc4a5ee1e69ed24a852f97d9b01aec0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 488, y: 591}
+    spritePosition: {x: 250, y: 229}
+  - name: fall 2
+    originalName: 
+    pivot: {x: 0.88656723, y: 0.9332456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 895
+      y: 172
+      width: 29
+      height: 208
+    spriteID: 268818c78adf40946ba24d7e0fdb8334
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 895, y: 172}
+    spritePosition: {x: 261, y: 272}
+  - name: fall
+    originalName: 
+    pivot: {x: 0.40418383, y: 0.9625689}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 172
+      width: 54
+      height: 206
+    spriteID: afaf4d9eab236c6419855f627c51638d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 833, y: 172}
+    spritePosition: {x: 416, y: 240}
+  - name: water 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 634
+      y: 172
+      width: 191
+      height: 95
+    spriteID: cdcf104fd9157cc4696d502bdaf5ead9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 634, y: 172}
+    spritePosition: {x: 281, y: 419}
+  - name: base 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.008253694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 634
+      y: 4
+      width: 225
+      height: 160
+    spriteID: 300112d3c0af8734c818330abb09d290
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 634, y: 4}
+    spritePosition: {x: 265, y: 360}
+  - name: base 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 882
+      y: 400
+      width: 124
+      height: 180
+    spriteID: 9ae71e8ca6be5c14a9ca5d42a9e22bcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 882, y: 400}
+    spritePosition: {x: 317, y: 205}
+  - name: water
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 400
+      width: 386
+      height: 183
+    spriteID: aa4b2357411c43e4d80fdbdc6df81de2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 488, y: 400}
+    spritePosition: {x: 179, y: 183}
+  - name: base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 400
+      width: 476
+      height: 258
+    spriteID: 0f05b3ee30013ff488712643fe348b47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 400}
+    spritePosition: {x: 138, y: 132}
+  - name: grass
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 622
+      height: 388
+    spriteID: 9ed7ef2d16c377e449465f1cdd2b5a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 65, y: 12}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 1
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: splash
+    spriteName: splash
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ec6605bc7c90495429d06f7dc0eb52bf
+    layerID: 1503
+    mosaicPosition: {x: 867, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'splash '
+    spriteName: 'splash '
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fcc4a5ee1e69ed24a852f97d9b01aec0
+    layerID: 1504
+    mosaicPosition: {x: 488, y: 591}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: fall 2
+    spriteName: fall 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 268818c78adf40946ba24d7e0fdb8334
+    layerID: 1505
+    mosaicPosition: {x: 895, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: fall
+    spriteName: fall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: afaf4d9eab236c6419855f627c51638d
+    layerID: 1506
+    mosaicPosition: {x: 833, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: water 2
+    spriteName: water 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cdcf104fd9157cc4696d502bdaf5ead9
+    layerID: 1502
+    mosaicPosition: {x: 634, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: base 3
+    spriteName: base 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 300112d3c0af8734c818330abb09d290
+    layerID: 1476
+    mosaicPosition: {x: 634, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: base 2
+    spriteName: base 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ae71e8ca6be5c14a9ca5d42a9e22bcd
+    layerID: 1470
+    mosaicPosition: {x: 882, y: 400}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: water
+    spriteName: water
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa4b2357411c43e4d80fdbdc6df81de2
+    layerID: 1485
+    mosaicPosition: {x: 488, y: 400}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: base
+    spriteName: base
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f05b3ee30013ff488712643fe348b47
+    layerID: 1469
+    mosaicPosition: {x: 4, y: 400}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: grass
+    spriteName: grass
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ed7ef2d16c377e449465f1cdd2b5a81
+    layerID: 1459
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: Water_Fountain Texture
+  prefabAssetName: Water_Fountain Prefab
+  spriteLibAssetName: Water_Fountain Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []

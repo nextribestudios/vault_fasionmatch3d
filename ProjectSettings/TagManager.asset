@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - PairMatchItem
+  - wall
+  - zombie
+  - Turtle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Item
+  - PPV
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: -02
+    uniqueID: 2525871135
+    locked: 0
+  - name: -01
+    uniqueID: 2360270989
+    locked: 0
+  - name: 01
+    uniqueID: 3635701523
+    locked: 0
+  - name: 01_B
+    uniqueID: 1134908953
+    locked: 0
+  - name: 01_C
+    uniqueID: 454641143
+    locked: 0
+  - name: 02
+    uniqueID: 324338405
+    locked: 0
+  - name: 03
+    uniqueID: 3821930591
+    locked: 0
+  - name: 04
+    uniqueID: 3927793411
+    locked: 0
+  - name: 05
+    uniqueID: 398062231
+    locked: 0
+  - name: 06
+    uniqueID: 1201042441
+    locked: 0
+  - name: 07_A
+    uniqueID: 1812329945
+    locked: 0
+  - name: 07
+    uniqueID: 4271620153
+    locked: 0
+  - name: 07_B
+    uniqueID: 1333169981
+    locked: 0
+  - name: 08
+    uniqueID: 2684885311
+    locked: 0
+  - name: 09
+    uniqueID: 2412102741
+    locked: 0
+  - name: 10
+    uniqueID: 1352392067
+    locked: 0
+  - name: 10_B
+    uniqueID: 1144112817
+    locked: 0
+  - name: 11
+    uniqueID: 582113849
+    locked: 0
+  - name: 12
+    uniqueID: 2511043099
+    locked: 0
+  - name: 13
+    uniqueID: 1635554155
+    locked: 0
+  - name: 14
+    uniqueID: 2034081893
+    locked: 0
+  - name: 15
+    uniqueID: 1815166749
+    locked: 0
+  - name: 16
+    uniqueID: 4172066891
+    locked: 0
+  - name: 17
+    uniqueID: 3254284889
+    locked: 0
+  - name: 18
+    uniqueID: 2851202453
+    locked: 0
+  - name: 19
+    uniqueID: 150491395
+    locked: 0
+  - name: 20
+    uniqueID: 3723225851
+    locked: 0

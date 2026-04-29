@@ -1,0 +1,36 @@
+{
+    "LevelName": "Level_7",
+    "LevelNo": 7,
+    "timer": 180,
+    "totalItemCount": 54,
+    "isHardLevel": false,
+    "LevelItems": [
+        30,
+        42,
+        23,
+        13,
+        17,
+        28,
+        7
+    ],
+    "LevelItemsCount": [
+        6,
+        6,
+        9,
+        9,
+        9,
+        9,
+        6
+    ],
+    "totalCounterCount": 21,
+    "CounterItem": [
+        30,
+        42,
+        23
+    ],
+    "CounterItemCount": [
+        6,
+        6,
+        9
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "LevelName": "Level_9",
+    "LevelNo": 9,
+    "timer": 300,
+    "totalItemCount": 30,
+    "LevelItems": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "LevelItemsCount": [
+        9,
+        6,
+        6,
+        3,
+        6
+    ],
+    "totalCounterCount": 9,
+    "CounterItem": [
+        2,
+        3
+    ],
+    "CounterItemCount": [
+        6,
+        3
+    ]
+}

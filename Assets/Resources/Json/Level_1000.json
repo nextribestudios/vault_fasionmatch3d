@@ -1,0 +1,30 @@
+{
+    "LevelName": "Level_1000",
+    "LevelNo": 1000,
+    "timer": 300.0,
+    "totalItemCount": 25,
+    "isHardLevel": false,
+    "LevelItems": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "LevelItemsCount": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "totalCounterCount": 10,
+    "CounterItem": [
+        0,
+        1
+    ],
+    "CounterItemCount": [
+        5,
+        5
+    ]
+}

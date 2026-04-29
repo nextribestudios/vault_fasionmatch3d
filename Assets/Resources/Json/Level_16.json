@@ -1,0 +1,41 @@
+{
+    "LevelName": "Level_16",
+    "LevelNo": 16,
+    "timer": 180,
+    "totalItemCount": 84,
+    "isHardLevel": false,
+    "LevelItems": [
+        14,
+        6,
+        38,
+        45,
+        23,
+        28,
+        1,
+        13,
+        16,
+        19
+    ],
+    "LevelItemsCount": [
+        12,
+        6,
+        9,
+        6,
+        9,
+        18,
+        3,
+        6,
+        3,
+        12
+
+    ],
+    "totalCounterCount": 18,
+    "CounterItem": [
+        14,
+        6
+    ],
+    "CounterItemCount": [
+        12,
+        6
+    ]
+}

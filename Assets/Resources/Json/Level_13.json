@@ -1,0 +1,40 @@
+{
+    "LevelName": "Level_13",
+    "LevelNo": 13,
+    "timer": 180,
+    "totalItemCount": 69,
+    "isHardLevel": false,
+    "LevelItems": [
+        10,
+        2,
+        30,
+        14,
+        6,
+        20,
+        31,
+        17,
+        32
+    ],
+    "LevelItemsCount": [
+        9,
+        9,
+        9,
+        6,
+        6,
+        9,
+        9,
+        9,
+        3
+    ],
+    "totalCounterCount": 27,
+    "CounterItem": [
+        10,
+        2,
+        30
+    ],
+    "CounterItemCount": [
+        9,
+        9,
+        9
+    ]
+}

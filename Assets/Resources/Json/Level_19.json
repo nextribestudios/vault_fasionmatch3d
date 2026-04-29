@@ -1,0 +1,43 @@
+{
+    "LevelName": "Level_19",
+    "LevelNo": 19,
+    "timer": 180,
+    "totalItemCount": 84,
+    "isHardLevel": false,
+    "LevelItems": [
+        28,
+        42,
+        5,
+        27,
+        23,
+        45,
+        33,
+        9,
+        7
+    ],
+    "LevelItemsCount": [
+        18,
+        9,
+        12,
+        9,
+        18,
+        3,
+        3,
+        9,
+        3
+
+    ],
+    "totalCounterCount": 48,
+    "CounterItem": [
+        28,
+        42,
+        5,
+        27
+    ],
+    "CounterItemCount": [
+        18,
+        9,
+        12,
+        9
+    ]
+}
