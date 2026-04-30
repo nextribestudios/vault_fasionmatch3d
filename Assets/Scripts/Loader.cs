@@ -3,6 +3,7 @@ using GameAnalyticsSDK;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Facebook.Unity;
+using DG.Tweening;
 
 public class Loader : MonoBehaviour, IGameAnalyticsATTListener
 {
@@ -70,7 +71,7 @@ public class Loader : MonoBehaviour, IGameAnalyticsATTListener
 
         Application.targetFrameRate = 60;
 
-        Invoke("LoadMainMenu", 1.5f);
+       // Invoke("LoadMainMenu", 1.5f);
 
         GameAnalytics.Initialize();
         if (!FB.IsInitialized)
@@ -223,9 +224,10 @@ public class Loader : MonoBehaviour, IGameAnalyticsATTListener
         PlayerPrefs.SetInt("AreaConsumeStar", areaConsumeStar);
     }
 
-    void LoadMainMenu()
+    public void LoadMainMenu()
     {
-        SceneManager.LoadScene(1);
+        DOVirtual.DelayedCall(1f,() => { SceneManager.LoadScene(1); });
+        
     }
 
     public void LifeData()

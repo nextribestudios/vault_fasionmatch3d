@@ -61,12 +61,12 @@ public class Items : MonoBehaviour
 
     public void IncreaseDrag()
     {
-        rb.drag = 1;
+        rb.linearDamping = 1;
     }
 
     public void DecreaseDrag()
     {
-        rb.drag = 0;
+        rb.linearDamping = 0;
     }
 
     //IEnumerator ShuffleItem()

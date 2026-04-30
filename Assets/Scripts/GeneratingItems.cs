@@ -158,7 +158,7 @@ public class GeneratingItems : MonoBehaviour
         {
             if (item != null)
             {
-                item.rb.angularDrag = 10;
+                item.rb.angularDamping = 10;
             }
         }
     }

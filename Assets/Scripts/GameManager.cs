@@ -800,7 +800,7 @@ public class GameManager : MonoBehaviour
             if (item != null && item.isClickable)
             {
                 item.rb.isKinematic = false;
-                item.rb.angularDrag = 0.05f;
+                item.rb.angularDamping = 0.05f;
                 item.SetShuffle();
                 //item.isFan = true;
                 //fanObject.SetActive(true);
@@ -823,8 +823,8 @@ public class GameManager : MonoBehaviour
             if (item != null && item.isClickable)
             {
                 item.isFan = false;
-                item.rb.angularDrag = 2;
-                item.rb.drag = 2;
+                item.rb.angularDamping = 2;
+                item.rb.linearDamping = 2;
                 item.rb.mass = 5;
             }
         }

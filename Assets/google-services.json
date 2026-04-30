@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "639896943421",
+    "project_id": "vault---updating-games",
+    "storage_bucket": "vault---updating-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:9f4d0fc289284bcddd2354",
+        "android_client_info": {
+          "package_name": "com.VaultGames.grannyrun3drunnergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:652cab42f4b83057dd2354",
+        "android_client_info": {
+          "package_name": "com.VaultGames.truckgamessimulator3D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:e308d83d256f3645dd2354",
+        "android_client_info": {
+          "package_name": "com.vaultgames.scissorsandbuttonsmatchmakerpuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:9419f064293f2416dd2354",
+        "android_client_info": {
+          "package_name": "com.vaultgames.sharkattackgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:2d9b7b12c3b7cc1edd2354",
+        "android_client_info": {
+          "package_name": "com.vaultgames.stylescapefashionmatch3d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:bb567e9659c58384dd2354",
+        "android_client_info": {
+          "package_name": "com.vaultgames.supermarketsimshopping3d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:7db172df90077baedd2354",
+        "android_client_info": {
+          "package_name": "com.vaultgames.tictactoeox2playergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639896943421:android:94c7aac5193ff0cbdd2354",
+        "android_client_info": {
+          "package_name": "com.vaultgames.wordmasterbrainpuzzlegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQYRLa1AajiTaq3xbo3MgSuKok2APc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

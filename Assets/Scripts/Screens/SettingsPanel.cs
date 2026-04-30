@@ -1,16 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SettingsPanel : MonoBehaviour
 {
     [SerializeField] GameObject[] musicOBJ;
     [SerializeField] GameObject[] soundOBJ;
     [SerializeField] GameObject[] vibrationOBJ;
+    [SerializeField] Button privacyPolicy;
 
-
+    private void OnPCButton()
+    {
+        Application.OpenURL("https://vaultgamesstudio.com/privacy-policy/");
+    }
+    private void OnDisable()
+    {
+        privacyPolicy.onClick.RemoveAllListeners();
+    }
     private void OnEnable()
     {
+        privacyPolicy.onClick.AddListener(OnPCButton);
         if (Loader.Instance.IsMusic)
         {
             musicOBJ[0].SetActive(false);
